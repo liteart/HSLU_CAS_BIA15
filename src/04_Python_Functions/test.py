@@ -2,11 +2,3 @@
 
 def fun():
     print("something here inside fun()")
-
-
-
-
-
-
-
-
